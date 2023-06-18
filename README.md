@@ -1,1 +1,1 @@
-Descrição do projeto.
+Olá, eu estou aprendendo sobre o GitHub!
